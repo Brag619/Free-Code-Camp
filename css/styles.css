@@ -1,0 +1,87 @@
+/*My styles */
+
+.navbar{
+  margin-bottom:0px;
+  border-radius:0px;
+  padding:10px;
+  background-color:#424242;
+}
+.sec1 {
+  width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  /*background-color: #388e3c;*/
+  background-image: url("http://cdn.apptamin.com/wp-content/uploads/2012/03/coding.jpg");
+  background-size: 100% 100%;
+  height: 100vh;
+  opacity: 0.8;
+}
+.text-color-1{
+  color:white;
+}
+.Absolute-Center{
+  margin: auto;
+  height:50px;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+.sec2 {
+  width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  /*background-color: #3949ab;*/
+   background-image: url("http://d.ibtimes.co.uk/en/full/1397132/coding-curriculum-criticism.jpg");
+  background-size: 100% 100%;
+  height: 100vh;
+  opacity: 0.8;
+}
+.my-text{
+  color:white;
+}
+.sec3 {
+  width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  /*background-color: #f44336;*/
+  background-image: url("http://blogs-images.forbes.com/michellesun/files/2016/08/FSPLFPQBCZ-1200x800.jpg");
+  background-size: 100% 100%;
+  height: 100vh;
+  opacity: 0.8;
+}
+.my-pad{
+  padding:125px 0 100px 0;
+}
+img{
+  border:3px;
+  border-style:solid;
+  border-color:white;
+}
+h4{
+  background-color:black;
+  width:304px;
+  padding:3px;
+}
+.sec4 {
+  width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  /*background-color: #26c6da;*/
+  background-image: url("https://codeinstitute.net/wp-content/uploads/2015/07/Coding-Bootcamp-Preparation.jpg");
+  background-size: 100% 100%;
+  height: 100vh;
+  opacity: 0.8;
+}
+.my-social{
+  padding-top:250px;
+}
+a{
+  color:white;
+}
